@@ -15,9 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShreyashV38&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ShreyashV38&icon=2&color=12)](https://visitcount.itsvg.in)
 
