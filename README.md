@@ -113,8 +113,8 @@ Automated email summarization + Telegram delivery, using polling architecture to
 ## `$ ./stats --github`
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShreyashV38&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashV38&theme=synthwave&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShreyashV38&show_icons=true&theme=synthwave&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=ShreyashV38&theme=dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
