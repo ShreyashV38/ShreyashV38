@@ -7,7 +7,7 @@
 <!-- TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=FF2D95&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%24+cat+/etc/status+→+MCA+@+Goa+University;%24+uptime+→+building+IoT+platforms+%26+REST+APIs;%24+whoami+→+full-stack+developer+%7C+systems+thinker;%24+ping+→+open+to+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=FF2D95&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%24+cat+%2Fetc%2Fstatus+%E2%86%92+MCA+%40+Goa+University;%24+uptime+%E2%86%92+building+IoT+platforms+%26+REST+APIs;%24+whoami+%E2%86%92+full-stack+developer+%7C+systems+thinker;%24+ping+%E2%86%92+open+to+opportunities" alt="Typing SVG" />
 </p>
 
 <!-- LINKS -->
@@ -39,7 +39,7 @@
  DESIGNATION   Shreyash Vaigankar
  PROGRAM       MCA @ Goa Business School, Goa University — CGPA 8.8
  PRIOR         B.Sc CS @ St. Xavier's College, Mapusa — 9.16 / 10
- FOCUS         Real-time IoT Platforms | REST APIs
+ FOCUS         Real-time IoT Platforms | REST APIs | AI-Integrated Systems
  INTERESTS     Software + Infrastructure + Hardware convergence
  STATUS        Open to opportunities
 ```
@@ -149,17 +149,13 @@ Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
 ## `> neofetch --stats`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShreyashV38&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyashV38&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF2D95&text_color=94A3B8&ring_color=00D9FF" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShreyashV38&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF2D95&text_color=94A3B8&ring_color=00D9FF" height="170" />
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=ShreyashV38&hide_border=true&background=0D1117&ring=FF2D95&fire=FF2D95&currStreakLabel=00D9FF&sideLabels=94A3B8&dates=4B5563&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashV38&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=94A3B8" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShreyashV38&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=94A3B8" height="170" />
 </p>
 
 ---
