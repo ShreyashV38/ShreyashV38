@@ -1,143 +1,189 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00FF9C&height=180&section=header&text=Shreyash%20Vaigankar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20IoT%20Builder&descAlignY=58&descSize=18" />
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- HEADER -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D1A,25:0D1117,50:0F172A,75:1A0A2E,100:0B0D1A&height=200&section=header&text=SHREYASH%20VAIGANKAR&fontSize=42&fontColor=00D9FF&animation=fadeIn&fontAlignY=34&desc=%E2%96%B8%20SYSTEMS_ONLINE%20%E2%80%A2%20FULL_STACK%20%E2%80%A2%20IoT%20%E2%80%A2%20DevOps&descAlignY=56&descSize=14&descColor=94A3B8" />
+
+<!-- TYPING ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&height=40&lines=Full-Stack+%2B+IoT+Developer;Docker+%2F+Kubernetes+%2F+DevOps;MCA+Student+%40+Goa+Business+School;Building+AI-Integrated+Systems" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=FF2D95&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%24+cat+/etc/status+→+MCA+@+Goa+University;%24+uptime+→+building+IoT+platforms+%26+REST+APIs;%24+whoami+→+full-stack+developer+%7C+systems+thinker;%24+ping+→+open+to+opportunities" alt="Typing SVG" />
+</p>
+
+<!-- LINKS -->
+
+<p align="center">
+  <a href="https://shreyashh.me">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/shreyash-v38">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+  </a>&nbsp;
+  <a href="mailto:shreyashvaigankar125@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2D95" />
+  </a>&nbsp;
+  <a href="https://github.com/ShreyashV38">
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://shreyashh.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/shreyash-v38"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shreyashvaigankar125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ShreyashV38&label=PROFILE+SCANS&color=FF2D95&style=flat-square&labelColor=0D1117" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ShreyashV38&label=Profile%20Views&color=00FF9C&style=for-the-badge" />
-</p>
+---
 
-<br>
+## `> cat /sys/profile`
 
-```bash
-shreyash@github:~$ whoami
+```
+ DESIGNATION   Shreyash Vaigankar
+ PROGRAM       MCA @ Goa Business School, Goa University — CGPA 8.8
+ PRIOR         B.Sc CS @ St. Xavier's College, Mapusa — 9.16 / 10
+ FOCUS         Real-time IoT Platforms | REST APIs
+ INTERESTS     Software + Infrastructure + Hardware convergence
+ STATUS        Open to opportunities
 ```
 
-> Computer Science graduate + MCA student, building full-stack, IoT, and
-> AI-integrated systems. Java, Python, TypeScript, React, Node.js,
-> Docker/Kubernetes. Targeting SWE / DevOps roles.
+---
 
-<details open>
-<summary><b>$ cat about.txt</b></summary>
-<br>
-
-- MCA (Computer Science) @ Goa Business School, Goa University — CGPA 8.8 (up to 2nd Sem)
-- B.Sc. Computer Science @ St. Xavier's College, Mapusa — CGPA 9.16/10
-- Building real-time IoT platforms, REST APIs, and AI-integrated apps
-- Interests: IoT Systems &nbsp;·&nbsp; Full-Stack Dev &nbsp;·&nbsp; DSA &nbsp;·&nbsp; ML &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Embedded Systems
-
-</details>
-
-<br>
-
-## `$ ls skills/`
+## `> lsmod --tech`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,react,nextjs,vite,html,css,nodejs,postgres,mongodb,mysql,firebase,docker,kubernetes,git,github&theme=dark&perline=10" />
+
+| Module | Stack |
+|:---:|:---|
+| **CORE_LANG** | <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp&theme=dark" height="36" /> |
+| **FRONTEND** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css&theme=dark" height="36" /> |
+| **BACKEND** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="36" /> |
+| **DATA_STORE** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&theme=dark" height="36" /> |
+| **INFRA** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,cloudflare&theme=dark" height="36" /> |
+
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
+---
 
-<br>
-
-## `$ ./projects --featured`
+## `> ls ~/projects --featured`
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🧠 [Devanagari Handwritten Character Recognition](https://github.com/ShreyashV38/Devnagri-OCR)
-`Python` `TensorFlow/Keras` `CNN` `Gradio`
+### Devanagari OCR
+**CNN-based Handwritten Character Recognition**
 
-CNN classifier for 46-class Devanagari character recognition on the UCI dataset. Boosted model confidence **11% → 46%** via Otsu thresholding, contour-based cropping, and preprocessing tuning.
+`Python` `TensorFlow` `CNN` `Gradio`
+
+46-class classifier. Confidence boosted **11% to 46%** via Otsu + contour preprocessing.
+
+<a href="https://github.com/ShreyashV38/Devnagri-OCR">
+  <img src="https://img.shields.io/badge/SOURCE-FF2D95?style=flat-square&logo=github&logoColor=0D1117" />
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🩸 [BloodSync & SchoolWay](https://github.com/ShreyashV38/BloodBank)
-`Full-Stack` `Android` `PostgreSQL`
+### BloodSync
+**Blood Bank Management System**
 
-Normalized-schema blood bank system with real-time inventory tracking + secure auth. Paired with a native Android app for real-time school bus GPS tracking and parent monitoring.
+`Full-Stack` `PostgreSQL` `REST API`
+
+Normalized DB architecture. Real-time inventory tracking. Secure auth flow.
+
+<a href="https://github.com/ShreyashV38/BloodBank">
+  <img src="https://img.shields.io/badge/SOURCE-00D9FF?style=flat-square&logo=github&logoColor=0D1117" />
+</a>
 
 </td>
+
 </tr>
 <tr>
+
 <td width="50%" valign="top">
 
-### ⌨️ [LIMA Terminal Text Editor](https://github.com/ShreyashV38/LIMA)
+### LIMA
+**Terminal Text Editor in C**
+
 `C` `Systems Programming` `Gap Buffer`
 
-Raw-mode terminal text editor built with a Gap Buffer for O(1) insert/delete. Low-level keystroke handling for navigation, backspace, escape-to-save.
+Raw terminal I/O. Gap buffer data structure. Save, navigation, and edit operations.
+
+<a href="https://github.com/ShreyashV38/LIMA">
+  <img src="https://img.shields.io/badge/SOURCE-00D9FF?style=flat-square&logo=github&logoColor=0D1117" />
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📬 [Gmail Monitor Bot](https://github.com/ShreyashV38/Mail-Summarizer)
-`Google Apps Script` `Gemini API` `Telegram Bot API`
+### Gmail Monitor Bot
+**Automated Email Intelligence**
 
-Automated email summarization + Telegram delivery, using polling architecture to bypass Apps Script webhook limits.
+`Apps Script` `Gemini API` `Telegram API`
+
+Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
+
+<a href="https://github.com/ShreyashV38/Mail-Summarizer">
+  <img src="https://img.shields.io/badge/SOURCE-FF2D95?style=flat-square&logo=github&logoColor=0D1117" />
+</a>
 
 </td>
+
 </tr>
 </table>
 
-<br>
+---
 
-## `$ cat achievements.log`
+## `> cat /var/log/events`
 
-🏆 **Solve for Goa 2026** — Google Developer Groups Goa (Jan 2026, Panjim)
-&nbsp;&nbsp;&nbsp;Architected REST APIs, built backend in TypeScript/Node.js, designed normalized DB schemas, integrated security protocols.
+| Year | Event | Role |
+|:---:|:---|:---|
+| `2026` | **Solve for Goa** — Google Developer Groups | REST API Architect (TS / Node.js) |
+| `2026` | **National MedTech Hackathon** — NAPCAIM, Govt. of Goa | Innovation Track |
+| `CERT` | **MCP Developer** — Anthropic Academy | Certified |
+| `CERT` | **Cybersecurity Fundamentals** — IBM | Certified |
 
-🏆 **National MedTech Hackathon** — NAPCAIM, Govt. of Goa (Feb 2026, Goa)
-&nbsp;&nbsp;&nbsp;30-day national-level innovation initiative; worked on real-world MedTech and healthcare problem statements.
+---
 
-<br>
-
-## `$ cat certifications.txt`
-
-📜 Model Context Protocol (MCP) Developer — Anthropic Academy
-📜 Cybersecurity Fundamentals — IBM
-
-<br>
-
-## `$ ./stats --github`
+## `> neofetch --stats`
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShreyashV38&show_icons=true&theme=synthwave&hide_border=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=ShreyashV38&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShreyashV38&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=6" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashV38&layout=compact&theme=synthwave&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyashV38&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF2D95&text_color=94A3B8&ring_color=00D9FF" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=ShreyashV38&hide_border=true&background=0D1117&ring=FF2D95&fire=FF2D95&currStreakLabel=00D9FF&sideLabels=94A3B8&dates=4B5563&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyashV38&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashV38&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=94A3B8" height="170" />
 </p>
+
+---
+
+## `> git log --graph`
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShreyashV38&theme=dracula&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyashV38&bg_color=0D1117&color=00D9FF&line=FF2D95&point=FFFFFF&area=true&area_color=FF2D95&hide_border=true&custom_title=Commit%20Activity%20Graph" width="100%" />
 </p>
 
-<br>
+---
 
-## `$ contact --info`
+## `> ./render snake.process`
 
 <p align="center">
-<a href="mailto:shreyashvaigankar125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/shreyash-v38"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://shreyashh.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/ShreyashV38"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyashV38/ShreyashV38/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyashV38/ShreyashV38/output/github-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/ShreyashV38/ShreyashV38/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0f172a&height=100&section=footer" />
+> *Requires a GitHub Action — see SETUP.md for instructions*
+
+<!-- FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D1A,25:1A0A2E,50:0F172A,75:0D1117,100:0B0D1A&height=100&section=footer" />
