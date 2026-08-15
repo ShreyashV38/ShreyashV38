@@ -149,13 +149,19 @@ Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
 ## `> neofetch --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyashV38&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF2D95&text_color=94A3B8&ring_color=00D9FF" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShreyashV38&hide_border=true&background=0D1117&ring=FF2D95&fire=FF2D95&currStreakLabel=00D9FF&sideLabels=94A3B8&dates=4B5563&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170" />
+  <img src="https://raw.githubusercontent.com/ShreyashV38/ShreyashV38/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashV38&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=94A3B8" height="170" />
+  <img src="https://raw.githubusercontent.com/ShreyashV38/ShreyashV38/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/ShreyashV38/ShreyashV38/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShreyashV38/ShreyashV38/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/ShreyashV38/ShreyashV38/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
 </p>
 
 ---
