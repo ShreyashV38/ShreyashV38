@@ -178,7 +178,6 @@ Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
   </picture>
 </p>
 
-> *Requires a GitHub Action — see SETUP.md for instructions*
 
 <!-- FOOTER -->
 
