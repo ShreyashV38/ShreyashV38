@@ -1,14 +1,23 @@
-## Hey, I'm Shreyash 👋
+<img width="100%" src="assets/header.svg" />
 
-CS student from Goa · MCA @ Goa Business School · building full-stack apps, IoT systems, and anything that compiles.
+<p align="center">
+  <a href="https://shreyashh.me">
+    <img src="https://img.shields.io/badge/▸_PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=00D9FF" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/shreyash-v38">
+    <img src="https://img.shields.io/badge/▸_LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:shreyashvaigankar125@gmail.com">
+    <img src="https://img.shields.io/badge/▸_EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=FF2D95" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/ShreyashV38">
+    <img src="https://img.shields.io/badge/▸_GITHUB-0D1117?style=flat-square&logo=github&logoColor=00D9FF" />
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/shreyashh.me-1a1a2e?style=flat&logo=vercel&logoColor=white)](https://shreyashh.me)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/shreyash--v38-1a1a2e?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-v38)&nbsp;
-[![Email](https://img.shields.io/badge/email-1a1a2e?style=flat&logo=gmail&logoColor=white)](mailto:shreyashvaigankar125@gmail.com)
+<img width="100%" src="assets/divider.svg" />
 
----
-
-## About
+### `sys/profile`
 
 ```
  DESIGNATION   Shreyash Vaigankar
@@ -19,9 +28,9 @@ CS student from Goa · MCA @ Goa Business School · building full-stack apps, Io
  STATUS        Open to opportunities
 ```
 
----
+<img width="100%" src="assets/divider.svg" />
 
-## Tech Stack
+### `lsmod --tech`
 
 <p align="center">
 
@@ -35,16 +44,16 @@ CS student from Goa · MCA @ Goa Business School · building full-stack apps, Io
 
 </p>
 
----
+<img width="100%" src="assets/divider.svg" />
 
-## Featured Projects
+### `ls ~/projects --featured`
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### Devanagari OCR
+#### ⟐ Devanagari OCR
 **CNN-based Handwritten Character Recognition**
 
 `Python` `TensorFlow` `CNN` `Gradio`
@@ -52,14 +61,14 @@ CS student from Goa · MCA @ Goa Business School · building full-stack apps, Io
 46-class classifier. Confidence boosted **11% to 46%** via Otsu + contour preprocessing.
 
 <a href="https://github.com/ShreyashV38/Devnagri-OCR">
-  <img src="https://img.shields.io/badge/SOURCE-FF2D95?style=flat-square&logo=github&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/SOURCE-0D1117?style=flat-square&logo=github&logoColor=FF2D95" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### BloodSync
+#### ⟐ BloodSync
 **Blood Bank Management System**
 
 `Full-Stack` `PostgreSQL` `REST API`
@@ -67,7 +76,7 @@ CS student from Goa · MCA @ Goa Business School · building full-stack apps, Io
 Normalized DB architecture. Real-time inventory tracking. Secure auth flow.
 
 <a href="https://github.com/ShreyashV38/BloodBank">
-  <img src="https://img.shields.io/badge/SOURCE-00D9FF?style=flat-square&logo=github&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/SOURCE-0D1117?style=flat-square&logo=github&logoColor=00D9FF" />
 </a>
 
 </td>
@@ -77,7 +86,7 @@ Normalized DB architecture. Real-time inventory tracking. Secure auth flow.
 
 <td width="50%" valign="top">
 
-### LIMA
+#### ⟐ LIMA
 **Terminal Text Editor in C**
 
 `C` `Systems Programming` `Gap Buffer`
@@ -85,14 +94,14 @@ Normalized DB architecture. Real-time inventory tracking. Secure auth flow.
 Raw terminal I/O. Gap buffer data structure. Save, navigation, and edit operations.
 
 <a href="https://github.com/ShreyashV38/LIMA">
-  <img src="https://img.shields.io/badge/SOURCE-00D9FF?style=flat-square&logo=github&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/SOURCE-0D1117?style=flat-square&logo=github&logoColor=00D9FF" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Gmail Monitor Bot
+#### ⟐ Gmail Monitor Bot
 **Automated Email Intelligence**
 
 `Apps Script` `Gemini API` `Telegram API`
@@ -100,7 +109,7 @@ Raw terminal I/O. Gap buffer data structure. Save, navigation, and edit operatio
 Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
 
 <a href="https://github.com/ShreyashV38/Mail-Summarizer">
-  <img src="https://img.shields.io/badge/SOURCE-FF2D95?style=flat-square&logo=github&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/SOURCE-0D1117?style=flat-square&logo=github&logoColor=FF2D95" />
 </a>
 
 </td>
@@ -108,9 +117,9 @@ Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
 </tr>
 </table>
 
----
+<img width="100%" src="assets/divider.svg" />
 
-## Events & Certifications
+### `cat /var/log/events`
 
 | Year | Event | Role |
 |:---:|:---|:---|
@@ -119,9 +128,9 @@ Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
 | `CERT` | **MCP Developer** — Anthropic Academy | Certified |
 | `CERT` | **Cybersecurity Fundamentals** — IBM | Certified |
 
----
+<img width="100%" src="assets/divider.svg" />
 
-## GitHub Stats
+### `neofetch --stats`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShreyashV38/ShreyashV38/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
@@ -139,17 +148,17 @@ Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
   <img src="https://raw.githubusercontent.com/ShreyashV38/ShreyashV38/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
 </p>
 
----
+<img width="100%" src="assets/divider.svg" />
 
-## Activity
+### `git log --graph`
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyashV38&bg_color=0D1117&color=00D9FF&line=FF2D95&point=FFFFFF&area=true&area_color=FF2D95&hide_border=true&custom_title=Commit%20Activity%20Graph" width="100%" />
 </p>
 
----
+<img width="100%" src="assets/divider.svg" />
 
-## Contributions
+### `./render snake`
 
 <p align="center">
   <picture>
@@ -159,9 +168,14 @@ Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
   </picture>
 </p>
 
-
-<!-- FOOTER -->
+<img width="100%" src="assets/divider.svg" />
 
 <p align="center">
-  <sub>Built with curiosity · <a href="https://shreyashh.me">shreyashh.me</a></sub>
+  <img src="https://komarev.com/ghpvc/?username=ShreyashV38&label=PROFILE+VIEWS&color=FF2D95&style=flat-square&labelColor=0D1117" />
+</p>
+
+<p align="center">
+  <sub>
+    <code>// built with curiosity</code> · <a href="https://shreyashh.me">shreyashh.me</a>
+  </sub>
 </p>
