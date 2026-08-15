@@ -1,39 +1,14 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- HEADER -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+## Hey, I'm Shreyash 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D1A,25:0D1117,50:0F172A,75:1A0A2E,100:0B0D1A&height=200&section=header&text=SHREYASH%20VAIGANKAR&fontSize=42&fontColor=00D9FF&animation=fadeIn&fontAlignY=34&desc=%E2%96%B8%20SYSTEMS_ONLINE%20%E2%80%A2%20FULL_STACK%20%E2%80%A2%20IoT%20%E2%80%A2%20DevOps&descAlignY=56&descSize=14&descColor=94A3B8" />
+CS student from Goa · MCA @ Goa Business School · building full-stack apps, IoT systems, and anything that compiles.
 
-<!-- TYPING ANIMATION -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=FF2D95&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%24+cat+%2Fetc%2Fstatus+%E2%86%92+MCA+%40+Goa+University;%24+uptime+%E2%86%92+building+IoT+platforms+%26+REST+APIs;%24+whoami+%E2%86%92+full-stack+developer+%7C+systems+thinker;%24+ping+%E2%86%92+open+to+opportunities" alt="Typing SVG" />
-</p>
-
-<!-- LINKS -->
-
-<p align="center">
-  <a href="https://shreyashh.me">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/shreyash-v38">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
-  </a>&nbsp;
-  <a href="mailto:shreyashvaigankar125@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2D95" />
-  </a>&nbsp;
-  <a href="https://github.com/ShreyashV38">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShreyashV38&label=PROFILE+SCANS&color=FF2D95&style=flat-square&labelColor=0D1117" />
-</p>
+[![Portfolio](https://img.shields.io/badge/shreyashh.me-1a1a2e?style=flat&logo=vercel&logoColor=white)](https://shreyashh.me)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/shreyash--v38-1a1a2e?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-v38)&nbsp;
+[![Email](https://img.shields.io/badge/email-1a1a2e?style=flat&logo=gmail&logoColor=white)](mailto:shreyashvaigankar125@gmail.com)
 
 ---
 
-## `> cat /sys/profile`
+## About
 
 ```
  DESIGNATION   Shreyash Vaigankar
@@ -46,7 +21,7 @@
 
 ---
 
-## `> lsmod --tech`
+## Tech Stack
 
 <p align="center">
 
@@ -62,7 +37,7 @@
 
 ---
 
-## `> ls ~/projects --featured`
+## Featured Projects
 
 <table>
 <tr>
@@ -135,7 +110,7 @@ Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
 
 ---
 
-## `> cat /var/log/events`
+## Events & Certifications
 
 | Year | Event | Role |
 |:---:|:---|:---|
@@ -146,7 +121,7 @@ Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
 
 ---
 
-## `> neofetch --stats`
+## GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShreyashV38/ShreyashV38/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
@@ -166,7 +141,7 @@ Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
 
 ---
 
-## `> git log --graph`
+## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyashV38&bg_color=0D1117&color=00D9FF&line=FF2D95&point=FFFFFF&area=true&area_color=FF2D95&hide_border=true&custom_title=Commit%20Activity%20Graph" width="100%" />
@@ -174,7 +149,7 @@ Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
 
 ---
 
-## `> ./render snake.process`
+## Contributions
 
 <p align="center">
   <picture>
@@ -187,4 +162,6 @@ Auto-summarizes incoming emails via Gemini and pushes alerts to Telegram.
 
 <!-- FOOTER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D1A,25:1A0A2E,50:0F172A,75:0D1117,100:0B0D1A&height=100&section=footer" />
+<p align="center">
+  <sub>Built with curiosity · <a href="https://shreyashh.me">shreyashh.me</a></sub>
+</p>
